@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # DigitalOcean Network Nodes
 
 Các nodes Network trong DigitalOcean đại diện cho các dịch vụ mạng như Load Balancer, Firewall, VPC và các dịch vụ liên quan đến domain. Các dịch vụ này giúp quản lý lưu lượng mạng, bảo mật và kết nối giữa các tài nguyên.

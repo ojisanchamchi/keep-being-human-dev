@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # DigitalOcean Compute Nodes
 
 Các nodes Compute trong DigitalOcean đại diện cho các dịch vụ tính toán như Droplets (máy chủ ảo), Kubernetes và Containers. Đây là những dịch vụ cốt lõi mà hầu hết các ứng dụng trên DigitalOcean sẽ sử dụng.

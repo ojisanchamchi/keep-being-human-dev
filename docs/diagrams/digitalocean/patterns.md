@@ -1,4 +1,8 @@
-# Pattern Diagram phổ biến với DigitalOcean
+---
+sidebar_position: 6
+---
+
+# Pattern Diagram phổ biến
 
 Trong tài liệu này, chúng ta sẽ tìm hiểu về các pattern diagram phổ biến khi sử dụng các nodes DigitalOcean trong thư viện diagrams. Các pattern này đại diện cho các kiến trúc thường gặp khi triển khai ứng dụng trên DigitalOcean.
 

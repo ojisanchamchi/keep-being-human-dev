@@ -1,4 +1,8 @@
-# DigitalOcean Nodes trong Diagrams
+---
+sidebar_position: 1
+---
+
+# DigitalOcean Diagrams
 
 DigitalOcean là một nhà cung cấp dịch vụ đám mây phổ biến, đặc biệt được ưa chuộng bởi các nhà phát triển và doanh nghiệp nhỏ nhờ vào sự đơn giản và chi phí hợp lý. Thư viện Diagrams cung cấp nhiều nodes để biểu diễn các dịch vụ và tài nguyên của DigitalOcean trong các sơ đồ kiến trúc.
 

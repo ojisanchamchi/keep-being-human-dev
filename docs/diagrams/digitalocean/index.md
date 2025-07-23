@@ -1,3 +1,7 @@
+---
+sidebar_position: 0
+---
+
 # DigitalOcean Nodes
 
 Chào mừng bạn đến với tài liệu hướng dẫn sử dụng các nodes DigitalOcean trong thư viện Diagrams! Tài liệu này sẽ giúp bạn hiểu rõ về các nodes DigitalOcean có sẵn trong thư viện và cách sử dụng chúng để tạo các sơ đồ kiến trúc chuyên nghiệp.

@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # DigitalOcean Storage Nodes
 
 Các nodes Storage trong DigitalOcean đại diện cho các dịch vụ lưu trữ như Block Storage (Volumes) và Object Storage (Spaces). Các dịch vụ này cung cấp các giải pháp lưu trữ linh hoạt và có thể mở rộng cho các ứng dụng của bạn.

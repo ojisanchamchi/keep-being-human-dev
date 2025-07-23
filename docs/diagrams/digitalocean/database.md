@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # DigitalOcean Database Nodes
 
 Các nodes Database trong DigitalOcean đại diện cho các dịch vụ cơ sở dữ liệu được quản lý (Managed Databases). DigitalOcean cung cấp nhiều loại cơ sở dữ liệu như MySQL, PostgreSQL, Redis và MongoDB, tất cả đều được quản lý hoàn toàn.
