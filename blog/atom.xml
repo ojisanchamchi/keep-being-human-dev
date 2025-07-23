@@ -55,9 +55,9 @@
             <name>Dang Quang Minh</name>
             <uri>https://github.com/ojisanchamchi</uri>
         </author>
-        <category label="ruby" term="ruby"/>
-        <category label="arrays" term="arrays"/>
-        <category label="expert" term="expert"/>
+        <category label="Ruby" term="Ruby"/>
+        <category label="Arrays" term="Arrays"/>
+        <category label="Expert" term="Expert"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bậc Thầy Xử Lý Mảng Trong Ruby: Những Kỹ Thuật Nâng Cao Đỉnh Cao]]></title>
@@ -106,9 +106,9 @@
             <name>Dang Quang Minh</name>
             <uri>https://github.com/ojisanchamchi</uri>
         </author>
-        <category label="ruby" term="ruby"/>
-        <category label="arrays" term="arrays"/>
-        <category label="advanced" term="advanced"/>
+        <category label="Ruby" term="Ruby"/>
+        <category label="Arrays" term="Arrays"/>
+        <category label="Advanced" term="Advanced"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nghệ Thuật Xử Lý Mảng Trong Ruby: Kỹ Thuật Trung Cấp Đáng Kinh Ngạc]]></title>
@@ -151,9 +151,9 @@
             <name>Dang Quang Minh</name>
             <uri>https://github.com/ojisanchamchi</uri>
         </author>
-        <category label="ruby" term="ruby"/>
-        <category label="arrays" term="arrays"/>
-        <category label="intermediate" term="intermediate"/>
+        <category label="Ruby" term="Ruby"/>
+        <category label="Arrays" term="Arrays"/>
+        <category label="Intermediate" term="Intermediate"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Khám Phá Mảng Trong Ruby: Hành Trang Cần Thiết Cho Người Mới]]></title>
@@ -190,8 +190,8 @@
             <name>Dang Quang Minh</name>
             <uri>https://github.com/ojisanchamchi</uri>
         </author>
-        <category label="ruby" term="ruby"/>
-        <category label="arrays" term="arrays"/>
-        <category label="beginner" term="beginner"/>
+        <category label="Ruby" term="Ruby"/>
+        <category label="Arrays" term="Arrays"/>
+        <category label="Beginner" term="Beginner"/>
     </entry>
 </feed>
