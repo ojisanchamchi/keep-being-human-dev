@@ -11,6 +11,8 @@ tags: [ruby, arrays, intermediate]
 
 Bạn đã nắm vững các kiến thức cơ bản về mảng trong Ruby? Đã đến lúc nâng cao kỹ năng của bạn với những kỹ thuật trung cấp đầy sức mạnh. Bài viết này sẽ giới thiệu những phương pháp xử lý mảng thông minh hơn, giúp code của bạn trở nên sạch sẽ và hiệu quả hơn.
 
+<!-- truncate -->
+
 ## 🔪 Cắt mảng với slice, range và chỉ số âm
 
 Ruby cung cấp nhiều cách linh hoạt để cắt và trích xuất phần tử từ mảng:

@@ -11,6 +11,8 @@ tags: [ruby, arrays, beginner]
 
 Bạn mới bắt đầu với Ruby? Bạn đang loay hoay với khái niệm mảng (arrays)? Đừng lo lắng! Bài viết này sẽ giúp bạn nắm vững những kiến thức cơ bản về mảng trong Ruby một cách dễ dàng và thú vị.
 
+<!-- truncate -->
+
 ## 🎮 Tạo mảng - Bước đầu tiên trong cuộc phiêu lưu
 
 Trong Ruby, bạn có thể tạo mảng bằng hai cách chính: sử dụng cú pháp `[]` hoặc constructor `Array.new`. Mỗi cách có ưu điểm riêng tùy vào tình huống sử dụng.

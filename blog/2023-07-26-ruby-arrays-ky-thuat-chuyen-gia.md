@@ -11,6 +11,8 @@ tags: [ruby, arrays, expert]
 
 Bạn đã thành thạo tất cả các kỹ thuật cơ bản, trung cấp và nâng cao về mảng trong Ruby? Đã đến lúc khám phá những bí kíp tối thượng, những kỹ thuật chỉ dành cho các chuyên gia Ruby thực thụ. Bài viết này sẽ đưa bạn đến những ranh giới xa nhất của việc làm việc với mảng trong Ruby, nơi hiệu suất, tính linh hoạt và sự thanh lịch của code được đẩy đến giới hạn.
 
+<!-- truncate -->
+
 ## 🧵 Xử Lý Song Song với Threads
 
 Tận dụng sức mạnh của đa luồng để xử lý mảng lớn một cách hiệu quả:

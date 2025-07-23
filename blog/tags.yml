@@ -17,3 +17,33 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+ruby:
+  label: Ruby
+  permalink: /ruby
+  description: Content related to Ruby programming language
+
+arrays:
+  label: Arrays
+  permalink: /arrays
+  description: Content about array data structures and operations
+
+beginner:
+  label: Beginner
+  permalink: /beginner
+  description: Content suitable for beginners
+
+intermediate:
+  label: Intermediate
+  permalink: /intermediate
+  description: Content for intermediate level programmers
+
+advanced:
+  label: Advanced
+  permalink: /advanced
+  description: Content for advanced level programmers
+
+expert:
+  label: Expert
+  permalink: /expert
+  description: Content for expert level programmers

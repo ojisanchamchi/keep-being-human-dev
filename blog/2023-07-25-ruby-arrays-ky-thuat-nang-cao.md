@@ -11,6 +11,8 @@ tags: [ruby, arrays, advanced]
 
 Bạn đã thành thạo các kỹ thuật cơ bản và trung cấp về mảng trong Ruby? Đã đến lúc khám phá những kỹ thuật nâng cao, những "vũ khí bí mật" giúp code của bạn trở nên tinh tế, hiệu quả và đẳng cấp hơn. Hãy cùng đi sâu vào thế giới của những bậc thầy Ruby!
 
+<!-- truncate -->
+
 ## 🧙‍♂️ Pattern Matching với Mảng - Phép Thuật Mới từ Ruby 3.0
 
 Pattern matching là một trong những tính năng mạnh mẽ nhất được giới thiệu từ Ruby 3.0, giúp bạn trích xuất dữ liệu từ các cấu trúc phức tạp một cách dễ dàng:
