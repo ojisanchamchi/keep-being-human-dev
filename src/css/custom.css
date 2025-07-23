@@ -28,3 +28,102 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Enhanced Ruby syntax highlighting */
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+  color: #8e908c;
+}
+
+.token.punctuation {
+  color: #c5c8c6;
+}
+
+.namespace {
+  opacity: 0.7;
+}
+
+.token.property,
+.token.tag,
+.token.boolean,
+.token.number,
+.token.constant,
+.token.symbol {
+  color: #f39c12;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin {
+  color: #2ecc71;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+  color: #f47920;
+}
+
+.token.atrule,
+.token.attr-value {
+  color: #3498db;
+}
+
+.token.keyword {
+  color: #e74c3c;
+}
+
+.token.regex,
+.token.important {
+  color: #e67e22;
+}
+
+.token.important,
+.token.bold {
+  font-weight: bold;
+}
+
+.token.italic {
+  font-style: italic;
+}
+
+.token.entity {
+  cursor: help;
+}
+
+/* Ruby specific tokens */
+.language-ruby .token.class-name {
+  color: #e74c3c;
+}
+
+.language-ruby .token.symbol {
+  color: #9b59b6;
+}
+
+.language-ruby .token.string {
+  color: #27ae60;
+}
+
+.language-ruby .token.function {
+  color: #3498db;
+}
+
+.language-ruby .token.keyword {
+  color: #e74c3c;
+  font-weight: bold;
+}
+
+.language-ruby .token.constant {
+  color: #f39c12;
+}
+
+.language-ruby .token.number {
+  color: #f1c40f;
+}
