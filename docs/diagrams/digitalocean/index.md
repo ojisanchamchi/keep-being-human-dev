@@ -1,4 +1,4 @@
-# Hướng dẫn sử dụng DigitalOcean Nodes trong Diagrams
+# DigitalOcean Nodes
 
 Chào mừng bạn đến với tài liệu hướng dẫn sử dụng các nodes DigitalOcean trong thư viện Diagrams! Tài liệu này sẽ giúp bạn hiểu rõ về các nodes DigitalOcean có sẵn trong thư viện và cách sử dụng chúng để tạo các sơ đồ kiến trúc chuyên nghiệp.
 
@@ -10,7 +10,6 @@ Chào mừng bạn đến với tài liệu hướng dẫn sử dụng các node
 4. [Network Nodes](network.md)
 5. [Storage Nodes](storage.md)
 6. [Các Pattern Diagram phổ biến](patterns.md)
-7. [Hướng dẫn tạo hình ảnh minh họa](generate_images.md)
 
 ## Giới thiệu
 
@@ -59,7 +58,7 @@ with Diagram("Ứng dụng Web đơn giản", show=True):
     lb = LoadBalancer("Load Balancer")
     app = Droplet("Web Server")
     db = DbaasPrimary("Database")
-    
+
     lb >> app >> db
 ```
 
