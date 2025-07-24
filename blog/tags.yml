@@ -57,3 +57,18 @@ benchmarking:
   label: Benchmarking
   permalink: /benchmarking
   description: Content about measuring and comparing code performance
+
+programming:
+  label: Programming
+  permalink: /programming
+  description: General programming concepts and techniques
+
+blocks:
+  label: Blocks
+  permalink: /blocks
+  description: Content related to code blocks and closures in programming languages
+
+functional:
+  label: Functional Programming
+  permalink: /functional
+  description: Content about functional programming paradigms and techniques
