@@ -72,3 +72,23 @@ functional:
   label: Functional Programming
   permalink: /functional
   description: Content about functional programming paradigms and techniques
+
+oop:
+  label: Object-Oriented Programming
+  permalink: /oop
+  description: Content about object-oriented programming concepts and practices
+
+classes:
+  label: Classes
+  permalink: /classes
+  description: Content about classes in object-oriented programming
+
+modules:
+  label: Modules
+  permalink: /modules
+  description: Content about modules and modular programming
+
+mixins:
+  label: Mixins
+  permalink: /mixins
+  description: Content about mixins and code reuse patterns
