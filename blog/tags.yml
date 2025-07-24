@@ -92,3 +92,60 @@ mixins:
   label: Mixins
   permalink: /mixins
   description: Content about mixins and code reuse patterns
+
+# Tags for compression blog
+compression:
+  label: Compression
+  permalink: /compression
+  description: Content about data compression techniques and algorithms
+
+gzip:
+  label: Gzip
+  permalink: /gzip
+  description: Content related to Gzip compression format and usage
+
+zip:
+  label: ZIP
+  permalink: /zip
+  description: Content about ZIP archive format and operations
+
+optimization:
+  label: Optimization
+  permalink: /optimization
+  description: Content about code and performance optimization techniques
+
+zlib:
+  label: Zlib
+  permalink: /zlib
+  description: Content related to Zlib compression library
+
+streaming:
+  label: Streaming
+  permalink: /streaming
+  description: Content about streaming data processing and techniques
+
+# Tags for concurrency blog
+concurrency:
+  label: Concurrency
+  permalink: /concurrency
+  description: Content about concurrent programming and parallel execution
+
+mutex:
+  label: Mutex
+  permalink: /mutex
+  description: Content about mutual exclusion and thread synchronization
+
+threading:
+  label: Threading
+  permalink: /threading
+  description: Content about multi-threading and thread management
+
+synchronization:
+  label: Synchronization
+  permalink: /synchronization
+  description: Content about thread synchronization techniques and patterns
+
+parallel:
+  label: Parallel Programming
+  permalink: /parallel
+  description: Content about parallel programming and concurrent execution
