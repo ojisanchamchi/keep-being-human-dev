@@ -47,3 +47,13 @@ expert:
   label: Expert
   permalink: /expert
   description: Content for expert level programmers
+
+performance:
+  label: Performance
+  permalink: /performance
+  description: Content related to performance optimization and techniques
+
+benchmarking:
+  label: Benchmarking
+  permalink: /benchmarking
+  description: Content about measuring and comparing code performance
