@@ -1,0 +1,8 @@
+{
+  "label": "AWS Analytics Nodes",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Complete documentation for AWS Analytics services including data lakes, streaming, warehousing, and business intelligence"
+  }
+}

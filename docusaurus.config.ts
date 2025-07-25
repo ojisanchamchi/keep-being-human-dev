@@ -1,3 +1,4 @@
+/** biome-ignore-all assist/source/organizeImports: explanation */
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
@@ -5,8 +6,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Keep Being Human',
+  tagline: 'A Journey to Human-Centric Development',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -20,7 +21,7 @@ const config: Config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/keep-being-human-dev/',
-  
+
   // Explicitly set trailingSlash configuration to avoid GitHub Pages warning
   trailingSlash: true,
 
