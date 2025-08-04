@@ -1,8 +1,0 @@
-{
-  "label": "AWS Nodes",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "Comprehensive documentation for AWS service nodes used in diagrams.aws library"
-  }
-}

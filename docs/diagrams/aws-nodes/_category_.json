@@ -1,0 +1,8 @@
+{
+  "label": "AWS Nodes",
+  "position": 2,
+  "link": {
+    "type": "doc",
+    "id": "diagrams/aws-nodes/index"
+  }
+}

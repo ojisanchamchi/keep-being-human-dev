@@ -1,3 +1,7 @@
+---
+sidebar_class_name: hidden
+---
+
 # AWS Nodes
 
 Welcome to the comprehensive documentation for AWS service nodes used in the diagrams.aws library. This section provides detailed information about various AWS services, their architecture patterns, use cases, and implementation examples.
